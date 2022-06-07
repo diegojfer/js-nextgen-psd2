@@ -1,0 +1,35 @@
+{
+  "name": "js-nextgen-psd2",
+  "version": "0.0.1",
+  "description": "Library to communicate with European Banks using NextGenPSD2 standard and PSD2 XS2A",
+  "main": "index.js",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegojfer/js-nextgen-psd2.git"
+  },
+  "keywords": [
+    "psd2",
+    "psd",
+    "xs2a",
+    "bank",
+    "nextgen",
+    "berlin",
+    "group",
+    "javascript",
+    "diegojfer",
+    "redsys",
+    "n26",
+    "qwac",
+    "eSeal",
+    "eStamp",
+    "ssl",
+    "nodejs"
+  ],
+  "author": "Diego Fernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegojfer/js-nextgen-psd2/issues"
+  },
+  "homepage": "https://github.com/diegojfer/js-nextgen-psd2#readme"
+}
