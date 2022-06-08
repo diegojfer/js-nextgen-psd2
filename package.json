@@ -1,9 +1,9 @@
 {
   "name": "js-nextgen-psd2",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Library to communicate with European Banks using NextGenPSD2 standard and PSD2 XS2A",
   "main": "index.js",
-  "scripts": { },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/diegojfer/js-nextgen-psd2.git"
@@ -31,5 +31,11 @@
   "bugs": {
     "url": "https://github.com/diegojfer/js-nextgen-psd2/issues"
   },
-  "homepage": "https://github.com/diegojfer/js-nextgen-psd2#readme"
+  "homepage": "https://github.com/diegojfer/js-nextgen-psd2#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "crypto": "^1.0.1",
+    "form-urlencoded": "^6.0.6",
+    "https": "^1.0.0"
+  }
 }
